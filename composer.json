@@ -1,0 +1,14 @@
+{
+  "name": "avoineoy/file-validator-svg-sanitizer",
+  "description": "SVG sanitizer module",
+  "type": "pw-module",
+  "authors": [
+    {
+      "name": "Ryan Cramer"
+    }
+  ],
+  "require": {
+    "php": ">=7.1",
+    "wireframe-framework/processwire-composer-installer": "^1.0.0"
+  }
+}
